@@ -1,4 +1,4 @@
 <resources>
     <string name="app_name">Yora</string>
-    <string name="btnLoginText">Login</string>
+    <string name="btnLoginText">Sign in</string>
 </resources>
